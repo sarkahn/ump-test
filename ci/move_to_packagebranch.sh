@@ -37,7 +37,7 @@ tar -tf archive.tar
 tar -xf archive.tar --overwrite
 rm archive.tar
 
-mv Samples ~Samples
+mv Samples Samples~
 
 git add -A
 
