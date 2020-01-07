@@ -10,7 +10,7 @@
     "UPM"
   ],
   "dependencies": {
-    "com.unity.textmeshpro": "2.0.1",
+    "com.unity.textmeshpro": "2.0.1"
   },
   "author": {
 	"name": "sark",
